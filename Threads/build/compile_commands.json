@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Cmake/Threads/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\G__~1.EXE   -g -std=c++11 -pthread -o CMakeFiles\\threads.dir\\main.cpp.obj -c D:\\Cmake\\Threads\\main.cpp",
+  "file": "D:/Cmake/Threads/main.cpp",
+  "output": "CMakeFiles/threads.dir/main.cpp.obj"
+}
+]
